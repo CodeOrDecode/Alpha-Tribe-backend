@@ -42,9 +42,5 @@ Bonus (Optional) Endpoints:
 ■	limit (optional, default: 10)
 ○	Response: [ { postId, stockSymbol, title, description, likesCount, createdAt } ] with pagination metadata.
 
-Environment Variables:
-PORT=8080
-MONGO_URL=mongodb+srv://janaritesh17:mwznVV9v0ckqX4jP@kanban.7xshkpl.mongodb.net/stockapp?retryWrites=true&w=majority&appName=kanban
-SECRET_KEY=Masai
 
 
